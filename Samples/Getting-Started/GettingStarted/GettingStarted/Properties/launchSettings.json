@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "GettingStarted (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "GettingStarted (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}

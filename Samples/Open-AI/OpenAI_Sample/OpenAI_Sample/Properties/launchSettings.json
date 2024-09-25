@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "OpenAI_Sample (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "OpenAI_Sample (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
