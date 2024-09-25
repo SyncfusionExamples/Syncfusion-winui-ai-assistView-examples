@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\New folder (4)\\New folder (2)\\Syncfusion-winui-ai-assistView-examples\\Samples\\Open-AI\\OpenAI_Sample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D0CB7A-9E9C-4997-9E7C-EBEA27635CF2}|OpenAI_Sample\\OpenAI_Sample.csproj|d:\\new folder (4)\\new folder (2)\\syncfusion-winui-ai-assistview-examples\\samples\\open-ai\\openai_sample\\openai_sample\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C4D0CB7A-9E9C-4997-9E7C-EBEA27635CF2}|OpenAI_Sample\\OpenAI_Sample.csproj|solutionrelative:openai_sample\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D0CB7A-9E9C-4997-9E7C-EBEA27635CF2}|OpenAI_Sample\\OpenAI_Sample.csproj|D:\\New folder (4)\\New folder (2)\\Syncfusion-winui-ai-assistView-examples\\Samples\\Open-AI\\OpenAI_Sample\\openai_sample\\viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4D0CB7A-9E9C-4997-9E7C-EBEA27635CF2}|OpenAI_Sample\\OpenAI_Sample.csproj|solutionrelative:openai_sample\\viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D0CB7A-9E9C-4997-9E7C-EBEA27635CF2}|OpenAI_Sample\\OpenAI_Sample.csproj|D:\\New folder (4)\\New folder (2)\\Syncfusion-winui-ai-assistView-examples\\Samples\\Open-AI\\OpenAI_Sample\\openai_sample\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4D0CB7A-9E9C-4997-9E7C-EBEA27635CF2}|OpenAI_Sample\\OpenAI_Sample.csproj|solutionrelative:openai_sample\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\New folder (4)\\New folder (2)\\Syncfusion-winui-ai-assistView-examples\\Samples\\Open-AI\\OpenAI_Sample\\OpenAI_Sample\\obj\\x86\\Debug\\net6.0-windows10.0.19041.0\\win10-x86\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OpenAI_Sample\\obj\\x86\\Debug\\net6.0-windows10.0.19041.0\\win10-x86\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:25:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.g.i.cs",
+              "DocumentMoniker": "D:\\New folder (4)\\New folder (2)\\Syncfusion-winui-ai-assistView-examples\\Samples\\Open-AI\\OpenAI_Sample\\OpenAI_Sample\\obj\\x86\\Debug\\net6.0-windows10.0.19041.0\\win10-x86\\App.g.i.cs",
+              "RelativeDocumentMoniker": "OpenAI_Sample\\obj\\x86\\Debug\\net6.0-windows10.0.19041.0\\win10-x86\\App.g.i.cs",
+              "ToolTip": "D:\\New folder (4)\\New folder (2)\\Syncfusion-winui-ai-assistView-examples\\Samples\\Open-AI\\OpenAI_Sample\\OpenAI_Sample\\obj\\x86\\Debug\\net6.0-windows10.0.19041.0\\win10-x86\\App.g.i.cs",
+              "RelativeToolTip": "OpenAI_Sample\\obj\\x86\\Debug\\net6.0-windows10.0.19041.0\\win10-x86\\App.g.i.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAewEkAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T09:04:32.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ViewModel.cs",
+              "DocumentMoniker": "D:\\New folder (4)\\New folder (2)\\Syncfusion-winui-ai-assistView-examples\\Samples\\Open-AI\\OpenAI_Sample\\OpenAI_Sample\\ViewModel.cs",
+              "RelativeDocumentMoniker": "OpenAI_Sample\\ViewModel.cs",
+              "ToolTip": "D:\\New folder (4)\\New folder (2)\\Syncfusion-winui-ai-assistView-examples\\Samples\\Open-AI\\OpenAI_Sample\\OpenAI_Sample\\ViewModel.cs",
+              "RelativeToolTip": "OpenAI_Sample\\ViewModel.cs",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAQwIMAAAB1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T11:18:00.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\New folder (4)\\New folder (2)\\Syncfusion-winui-ai-assistView-examples\\Samples\\Open-AI\\OpenAI_Sample\\OpenAI_Sample\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "OpenAI_Sample\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\New folder (4)\\New folder (2)\\Syncfusion-winui-ai-assistView-examples\\Samples\\Open-AI\\OpenAI_Sample\\OpenAI_Sample\\MainWindow.xaml.cs",
+              "RelativeToolTip": "OpenAI_Sample\\MainWindow.xaml.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAlwCEAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T11:17:30.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\New folder (4)\\New folder (2)\\Syncfusion-winui-ai-assistView-examples\\Samples\\Open-AI\\OpenAI_Sample\\OpenAI_Sample\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "OpenAI_Sample\\MainWindow.xaml",
+              "ToolTip": "D:\\New folder (4)\\New folder (2)\\Syncfusion-winui-ai-assistView-examples\\Samples\\Open-AI\\OpenAI_Sample\\OpenAI_Sample\\MainWindow.xaml",
+              "RelativeToolTip": "OpenAI_Sample\\MainWindow.xaml",
+              "ViewState": "AQIAABAAAAAAAAAAAAAowB0AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-20T11:16:05.799Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 34,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
